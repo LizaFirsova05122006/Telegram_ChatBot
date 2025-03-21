@@ -201,7 +201,7 @@
   <pre><code>cd путь/к/Вашей/папке</code></pre>
   <h3><li>Используйте следующую команду, чтобы клоинровать репозиторий:</li></h3>
   <pre><code>git clone https://github.com/LizaFirsova05122006/Telegram_ChatBot.git</code></pre>
-  <h3><li>Получите токен у <a https://t.me/BotFather>BotFather</a></li></h3>
+  <h3><li>Получите токен у <a href="https://t.me/BotFather">BotFather</a></li></h3>
   <h3><li>Вставьте полученный токен в файл .env вместо "YOUR_TOKEN"</li></h3>
   <h3><li>Откройте IDE с интерпретатором Python и запустите main.py</li></h3>
   <h3><li>Или в командной строке (в папке, куда был склонирован репозиторий) введите команду:</li></h3>
